@@ -1,5 +1,6 @@
 # Colleague 7 3CX Integration
 ![alt text](https://services.colleaguesoftware.com/online-help/images/v7/colleague---twitter.jpg | height=100) ![alt text](https://cdn0.iconfinder.com/data/icons/electronic-flat-1/32/plug_v2-512.png | height=100)![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/3CX_logo.svg/1200px-3CX_logo.svg.png | height=100)
+<img src="https://services.colleaguesoftware.com/online-help/images/v7/colleague---twitter.jpg" height="100" />
 
 
 Developed by the team at [Walker Dendle](https://www.walkerdendle.co.uk) 💙
